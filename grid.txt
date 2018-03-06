@@ -1,0 +1,20 @@
+QUE:-PRINT GIVEN GRID .
++ - - - - + - - - - +
+|         |         |
+|         |         |
+|         |         |
+|         |         |
++ - - - - + - - - - +
+|         |         |
+|         |         |
+|         |         |
+|         |         |
++ - - - - + - - - - +
+ANS:-
+ So this is the grid which we wanted to make.
+ for that think "+ - - - -" as one part and "|        " as second.
+ So for first line we have to print frist part twice and add "+" at end,
+ As same above for second line print second part twice and add "|" at end.
+
+for info:
+    we use "," after print statment to continue result on same line.
